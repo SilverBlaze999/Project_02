@@ -1,2 +1,2 @@
-My simple 2nd project
+This is my 2nd simple project.
 
